@@ -1,5 +1,3 @@
 # OIBSIP
-All Oasis Level 2 tasks
+ Oasis Level 2 task
 1.Calculator
-2.Tribute Page
-3.To-Do-List Web App
